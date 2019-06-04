@@ -1,0 +1,33 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400|Open+Sans:400italic,400,600|Muli:300);
+.top_header_logo{
+    /* background: url(../img/logo.png) no-repeat;
+    background-size: 97px;
+    background-position: 4px -20px;
+    background-clip: aliceblue; */
+}
+.bg-black {
+    background-color: #333333;
+}
+a:hover {
+    text-decoration: none;
+}
+.carousel_slide_btn,.carousel_slide_btn:hover{
+	background: #777;
+    padding: 5px 10px 5px 9px;
+    color: #fff;
+}
+.logo_text {
+    position: relative;
+    top: -16px;
+    padding-left: 100px;
+}
+.profile-page .gallery img {
+    width: 100%;
+    margin-bottom: 2.142rem;
+}
+.img-fluid {
+    max-width: 250px;
+    height: 250px;
+    border: 2px solid #6c757d;
+    margin: 2px;
+}
